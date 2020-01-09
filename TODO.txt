@@ -1,0 +1,7 @@
+A list of things to do. Mostly optimizations.
+
+* impl Sum and Product for iterables
+* impl Into<higher-bit-count> for lower-bit-count
+* math: add, sub, mul, div, rem (mod)
+* Special Debug fmt?
+* floats
